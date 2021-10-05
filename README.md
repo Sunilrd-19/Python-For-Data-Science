@@ -1,2 +1,2 @@
-# Python-For-Data-Science
-Complete python for data science projects.
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
